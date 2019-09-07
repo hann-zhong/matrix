@@ -5,10 +5,10 @@ A Java class with methods that perform several matrix operations, including:
 Checks to see if two matrices are the same.
 
 ###### add
-Adds two matrices together.
+Adds two matrices together and returns the resulting matrix.
 
 ###### subtract
-Subtracts one matrix from another.
+Subtracts one matrix from another and returns the resulting matrix.
 
 ###### multiply (double)
 Scalar multiplication.
@@ -26,11 +26,11 @@ Switches the rows and columns of a matrix.
 Given the size, creates an identity matrix, which is a square matrix with 1's across the main diagonal and 0's everywhere else.
 
 ###### power
-Raises a matrix to a given power. Returns identity matrix if power is 0.
+Raises a matrix to a given power. Returns identity matrix if given power is 0.
 
 ###### determinant
 Returns determinant of a matrix.
 
 ###### minor
-Returns the minor of a martix by removing a specified row and column.
+Returns the minor of a matrix by removing a specified row and column.
 
