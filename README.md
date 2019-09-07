@@ -1,5 +1,5 @@
 # matrix-operations
-A Java class with methods that perform several matrix operations, including:
+A Java class containing methods that perform several matrix operations, including:
 
 ###### equals
 Checks to see if two matrices are the same.
