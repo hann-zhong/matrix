@@ -1,4 +1,4 @@
-# matrix
+# 🧮 matrix
 A linear algebra tool containing methods that perform several matrix operations, including:
 
 ###### equals
